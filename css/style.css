@@ -1,0 +1,106 @@
+html{
+    background-color:  #816c61;
+}
+.title{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 15vh;
+    color: silver;
+    margin-bottom: 8vh;
+    font-family: "Young Serif", sans-serif;
+    letter-spacing: 10.75px;
+    text-shadow: 6px 6px 4px rgba(0, 0, 0, .5);
+    font-size: 40px;
+    margin-top: 5vh;
+}
+.verse1 p{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 25px;
+    font-family: "Noto Music", sans-serif;
+    color:white;
+}
+.verse1 p:nth-child(3){
+    color: orange;
+    letter-spacing: 1.5px;
+}
+.verse1{
+    margin-bottom: 10vh;
+}
+.chorus p{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 35px;
+    font-family: "Boogaloo", sans-serif;
+}
+.chorus{
+    margin-bottom: 10vh;
+}
+.verse2 p{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 25px;
+    font-family: "Noto Music", sans-serif;
+    color: white;
+}
+.verse2{
+    margin-bottom: 10vh;
+}
+.verse3 p{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 25px;
+    font-family: "Noto Music", sans-serif;
+    color: white;
+}
+.verse3{
+    margin-bottom: 10vh;
+}
+.verse4 p{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 25px;
+    font-family: "Noto Music", sans-serif;
+    color: white;
+}
+.verse4{
+    margin-bottom: 10vh;
+}
+.final p{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 25px;
+    font-family: "Noto Music", sans-serif;
+    color: white;
+}
+.final{
+    margin-bottom: 5vh;
+}
+.attention{
+    color: orange;
+    font-size: 35px;
+    margin-right: 20px;
+}
+.watching{
+    color:red;
+    font-size: 30px;
+    margin: 10px;
+}
+.away{
+    color:lightblue;
+    font-size: 35px;
+    margin: 10px;
+}
+.hero{
+    color: blue;
+    font-size: 40px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
